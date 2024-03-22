@@ -1,0 +1,3 @@
+[submodule "salemlojic/themes/PaperMod"]
+	path = salemlojic/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
