@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Salem Lojic</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Salem Lojic</description>
     <image>
       <title>Salem Lojic</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 22 Mar 2024 23:20:56 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mitt första arga inlägg 😡</title>
-      <link>http://localhost:1313/posts/post1/</link>
+      <link>//localhost:1313/posts/post1/</link>
       <pubDate>Fri, 22 Mar 2024 23:20:56 +0100</pubDate>
-      <guid>http://localhost:1313/posts/post1/</guid>
+      <guid>//localhost:1313/posts/post1/</guid>
       <description>Här kommer det absolut värsta övergångsstället i hela Kvarngärdet (Vill knappt räkna det här till Kvarngärdet pga detta URusla övergångsställe): Och du kanske ni undrar vrf detta suger så mkt?? Kan då tala om för er att ABSOLUT ingen bil förstår att det är ett :))
 Inte en ENDA bil stannar för att släppa över en. Kan lixom stå i minuter och ingen bil orkar stanna, TROTS att man tittar väääääldigt noga på övergångsskylten på ett fundersamt sätt för att markera sin rätt.</description>
     </item>

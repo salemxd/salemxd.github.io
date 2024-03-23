@@ -27,7 +27,7 @@ params:
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
-  disableThemeToggle: false
+  disableThemeToggle: true
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -38,7 +38,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: true
+  comments: false
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -54,15 +54,15 @@ params:
     safari_pinned_tab: "/safari-pinned-tab.svg"
 
   label:
-    text: "Salem Lojic"
+    text: "Kvarngärdets Blogg"
     #icon: /apple-touch-icon.png
     iconHeight: 35
 
 
   # home-info mode
   homeInfoParams:
-    Title:  🧺! En blogg om det senaste i Kvarngärdet !🧺 
-    Content:        - Ni kan tacka mig senare ❤️
+    Title:  -🏠  En blogg om det senaste i Kvarngärdet 🏠-
+    #Content:        - Ni kan tacka mig senare ❤️
 
   socialIcons:
     #- name: x
