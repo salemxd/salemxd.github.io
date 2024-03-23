@@ -20,12 +20,10 @@ params:
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Salem Lojic
-  # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -45,36 +43,22 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
 
   label:
     text: "Salem Lojic"
-    icon: /apple-touch-icon.png
+    #icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:
-    Title: "En blog om det senaste i Kvarngärdet  🧺"
-    Content: Ni kan tacka mig senare ❤️
+    Title:  🧺! En blogg om det senaste i Kvarngärdet !🧺 
+    Content:        - Ni kan tacka mig senare ❤️
 
   socialIcons:
     #- name: x
